@@ -1,6 +1,6 @@
 {
-  "name": "basic_auth_api",
-  "version": "1.0.0",
+  "name": "tic_tac_toe_online",
+  "version": "0.0.1",
   "description": "",
   "type": "module",
   "main": "index.js",
